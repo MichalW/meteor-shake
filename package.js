@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'shake:shake',
+  name: 'michalwanat:shake',
   version: '0.2.0',
   summary: 'Detect shake events in mobile browsers or Cordova apps',
   git: 'https://github.com/dandv/meteor-shake',
